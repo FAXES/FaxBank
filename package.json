@@ -1,0 +1,23 @@
+{
+  "name": "faxbank",
+  "version": "1.0.0",
+  "description": "Welcome to FaxBank! A all in one banking system for Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAXES/FaxBank.git"
+  },
+  "keywords": [
+    "faxes",
+    "bank"
+  ],
+  "author": "FAXES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FAXES/FaxBank/issues"
+  },
+  "homepage": "https://github.com/FAXES/FaxBank#readme"
+}
